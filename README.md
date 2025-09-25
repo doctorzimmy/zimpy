@@ -4,7 +4,13 @@
 ![License](https://img.shields.io/badge/license-MIT-green)  
 ![Status](https://img.shields.io/badge/status-teaching--tool-orange)  
 ![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)  
+---
 
+### ⭐ Optional “Extras” you might add
+1. **Quickstart** (one-liner demo)  
+   At the very top, right under the badges:  
+   ```markdown
+   👉 Quickstart: `vc.detect_wonky(vc.test_df)` will flag hidden Unicode gremlins in your columns.  
 ---
 
 `zimpy` is a Python helper library for cleaning and untangling messy data.  
