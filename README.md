@@ -41,6 +41,7 @@ Clone the repo from GitHub:
 git clone https://github.com/YOUR-USERNAME/zimpy.git
 cd zimpy
 pip install -e .
+```
 ---
 
 ## 📚 Usage  
@@ -75,6 +76,17 @@ df_clean = vc.kill_wonky(df)
 Data cleaning is a huge part of analytics. Models often fail not because of bad math, but because of invisible gremlins hiding in your data.  
 
 `zimpy` helps students (and instructors!) **see** and **squash** those gremlins early.  
+
+---
+## 🛣️ Roadmap
+- [x] ventclean (Unicode cleanup)  
+- [ ] datewizard (date parsing & fixing)  
+- [ ] future utilities (TBD)
+
+---
+
+## 🙌 Acknowledgments
+Built for students learning Python data cleaning. Inspired by years of zim getting burned by invisible gremlins in spreadsheets.  
 
 ---
 
