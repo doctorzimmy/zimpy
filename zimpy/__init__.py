@@ -9,5 +9,7 @@ Currently includes:
 - datewizard (coming soon): fix ugly/broken date formats
 """
 
+__version__ = "0.1.0"
+
 from . import ventclean
 from . import datewizard  # safe to include even if it's mostly placeholder
